@@ -2,3 +2,4 @@
 *.obj
 *.exp
 *.pdb
+*.user
